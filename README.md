@@ -1,4 +1,4 @@
-![cupola-international-space-station](https://user-images.githubusercontent.com/72045872/146440831-26fce8fc-0f6b-4608-b5fc-a97e9538df06.jpg)
+![HlVPZUT](https://user-images.githubusercontent.com/72045872/146442708-fdb22fd8-63f0-4f3f-9d78-dd13b4d6250b.jpg)
 
 ----
 
