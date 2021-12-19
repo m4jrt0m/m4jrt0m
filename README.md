@@ -2,20 +2,16 @@
 
 ----
 
-```go
-package main
-  
-import "fmt"
-
-func main() {
-    fmt.Println("##### Hello World :D #####")
+```rust
+fn main() {
+    println!(" --->  Hello World! :D <--- ");
 }
 ```
 
 ## 👋 Hi, I’m 🚀 @m4jrt0m 🚀
 ##### I'm a software developer that wants to become a pentester
 
-👀 I’m interested in software devevelopment, security, bug bounty, linux, etc...
+👀 I’m interested in software devevelopment, functional programming, security, bug bounty, linux, etc...
     
 🌱 I’m currently learning Securtiy+
 
