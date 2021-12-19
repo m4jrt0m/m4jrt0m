@@ -4,7 +4,7 @@
 
 ```rust
 fn main() {
-    println!(" --->  Hello World! :D <--- ");
+    println!(" --->  Hello World! :D  <--- ");
 }
 ```
 
