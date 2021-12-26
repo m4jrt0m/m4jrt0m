@@ -13,7 +13,7 @@ fn main() {
 
 👀 I’m interested in software devevelopment, functional programming, security, bug bounty, linux, etc...
     
-🌱 I’m currently learning Securtiy+
+🌱 I’m currently learning **Securtiy+**
 
 💞️ I’m looking to collaborate on go, security and linux projects
 
