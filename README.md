@@ -9,13 +9,13 @@ fn main() {
 ```
 
 ## 👋 Hi, I’m 🚀 @m4jrt0m 🚀
-##### I'm a software developer that wants to become a pentester
+##### I'm a software developer that loves linux wants to become a pentester
 
 👀 I’m interested in software devevelopment, functional programming, security, bug bounty, linux, etc...
     
 🌱 I’m currently learning **Securtiy+**
 
-💞️ I’m looking to collaborate on go, security and linux projects
+💞️ I’m looking to collaborate on go, rust, security and linux projects
 
 <!---
 m4jrt0m/m4jrt0m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
