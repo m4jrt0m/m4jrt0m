@@ -9,7 +9,7 @@ fn main() {
 ```
 
 ## 👋 Hi, I’m 🚀 @m4jrt0m 🚀
-##### I'm a software developer that loves linux wants to become a pentester
+##### I'm a software developer that loves linux and wants to become a security professional
 
 👀 I’m interested in software devevelopment, functional programming, security, bug bounty, linux, etc...
     
